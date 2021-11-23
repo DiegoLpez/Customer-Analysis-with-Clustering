@@ -77,7 +77,7 @@ To apply clustering, the following steps have been taken:
 3. Evaluating the clusters formed via scatter plotting
 
 ### Income vs Spending
-![Clusters' Profiles based on Income and Spending](/output/7.png)
+
 
 The following patterns are identified:
 - Group 0: average spending & average income
